@@ -13,4 +13,5 @@
 - 🔭 I’m currently working on **speculative decoding**, a promising technique for acclerating LLM inference.
 - 🌱 I’m currently learning some techniques for better inference performance.
 - 👯 I’m looking to collaborate on relative topics, mainly about inference techniques.
- 
+
+ If you think my dog Luca is very cute, please give me a star!
