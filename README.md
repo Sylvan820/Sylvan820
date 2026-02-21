@@ -10,9 +10,9 @@
 
 ---
 - ✨ I'm a Direct Ph.D. student at **Zhejiang University** and a Research Intern at **Qwen**. I'm deeply passionate about **MLSys, AI Infrastructure, and Edge Computing**.
-- 🔭 I’m currently focused on **speculative decoding** and sampling, exploring techniques like parallel retrieval to break the acceleration limits of LLM inference.
+- 🔭 I’m currently focused on **Speculative Decoding**, exploring techniques like breaking the acceleration limits of LLM inference.
 - 🌱 I’m constantly learning and building robust systems for more effective and efficient AI inference.
-- 👯 I’m looking to collaborate on topics related to **LLM inference acceleration, speculative parallelism, and machine learning systems**.
+- 👯 I’m looking to collaborate on topics related to **LLM inference acceleration, Speculative parallelism, and Machine learning systems**.
 - ⚡ Outside of research, I enjoy playing basketball, video games, and photography.
 
 If you find my projects or papers helpful, a star 🌟 is always appreciated!
