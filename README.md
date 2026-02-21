@@ -1,5 +1,5 @@
 <!-- Heading -->
-<h3 align="center"><img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> Hi there! I'm Tianyu Liu.</h3>
+<h3 align="center"><img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> Hi there! I'm Yuhao Shen.</h3>
 
 <!-- Profile Views -->
 
@@ -9,9 +9,10 @@
  <!-- About section -->
 
 ---
-- ✨ I'm a 4-year joint PhD. student at USTC and Shanghai AI Lab. I passionate about **effective and efficient inference** for AIGC.
-- 🔭 I’m currently working on **speculative decoding**, a promising technique for acclerating LLM inference.
-- 🌱 I’m currently learning some techniques for better inference performance.
-- 👯 I’m looking to collaborate on relative topics, mainly about inference techniques.
+- ✨ I'm a Direct Ph.D. student at **Zhejiang University** and a Research Intern at **Qwen**. I'm deeply passionate about **MLSys, AI Infrastructure, and Edge Computing**.
+- 🔭 I’m currently focused on **speculative decoding** and sampling, exploring techniques like parallel retrieval to break the acceleration limits of LLM inference.
+- 🌱 I’m constantly learning and building robust systems for more effective and efficient AI inference.
+- 👯 I’m looking to collaborate on topics related to **LLM inference acceleration, speculative parallelism, and machine learning systems**.
+- ⚡ Outside of research, I enjoy playing basketball, video games, and photography.
 
- If you think my dog Luca is very cute, please give me a star!
+If you find my projects or papers helpful, a star 🌟 is always appreciated!
